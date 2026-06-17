@@ -50,8 +50,10 @@ Presented at the Asia Conference on Computer and Communications Engineering.
 
 ## Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/abhishek-gangurde)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:gangurdeabhishek9124@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/abhishek9124)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:abhishek.gangurde9124@gmail.com)
+
+📧 **abhishek.gangurde9124@gmail.com** &nbsp;·&nbsp; 🔗 **linkedin.com/in/abhishek9124**
 
 ---
 
