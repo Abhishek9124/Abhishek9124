@@ -2,7 +2,7 @@
 
 **LLM Engineer · AI Automation · Generative AI**
 
-B.Tech CSE (AI & ML) — PCCOE Pune &nbsp;|&nbsp; Nashik, India &nbsp;|&nbsp; Open to work
+B.Tech CSE (AI & ML) — PCCOE Pune &nbsp;|&nbsp; Pune, India &nbsp;|&nbsp; Open to work
 
 ---
 
