@@ -1,7 +1,5 @@
 # Abhishek Gangurde
-
 **LLM Engineer · AI Automation · Generative AI**
-
 B.Tech CSE (AI & ML) — PCCOE Pune &nbsp;|&nbsp; Pune, India &nbsp;|&nbsp; Open to work
 
 ---
@@ -10,34 +8,38 @@ I build end-to-end LLM systems — multi-agent pipelines, RAG applications, and 
 
 ---
 
-## Featured projects
+## Featured Projects
 
 | Project | What it does | Stack |
 |---------|-------------|-------|
-| [NeverQuit](https://github.com/Abhishek9124/NeverQuit_Athlete_Storytelling_Platform) | 6-agent LLM pipeline — discovery → research → write → QA → human review → publish. MCP tool-use, confidence scoring, Flask admin console | Python · Flask · MCP · OpenAI-compat API · SQLite |
-| [ClipSage](https://github.com/Abhishek9124/ClipSage) | Turns any YouTube video into 9 content formats — notes, quizzes, blog posts, a RAG chatbot. Two-layer caching, multilingual, real exports | LangChain · ChromaDB · Gemini 2.5 Flash · Streamlit |
-| [AI SQL Assistant](https://github.com/Abhishek9124/AI-SQL-Assistant) | Fine-tuned Llama 3.2-3B on 120 years of Olympic data for natural language → SQL | LoRA · QLoRA · Unsloth · HuggingFace |
-| [Real Estate Analytics Platform](https://github.com/Abhishek9124/Real_Estate_Analytics_Platform) | Gurgaon property price prediction, market analytics dashboard, and content-based recommender — deployed multi-page Streamlit app on 3,000+ listings | Streamlit · scikit-learn · XGBoost · Plotly · pandas |
+| [MultiAgent LLM](https://github.com/Abhishek9124/MultiAgent-LLM) | 6-agent LLM pipeline — discovery → research → write → QA → human review → publish. MCP tool-use, 5-axis confidence scoring, 99% uptime across 100+ runs | Python · Flask · MCP · SQLite · Docker |
+| [ClipSage](https://github.com/Abhishek9124/ClipSage) | Turns any YouTube video into 9 content formats — notes, quizzes, blog posts, RAG chatbot. 95% answer relevance, 60% API call reduction via two-layer caching | LangChain · ChromaDB · Gemini 2.5 Flash · Streamlit |
+| [NL-to-SQL Engine](https://github.com/Abhishek9124/Olympics-Text-to-SQL) | 3-tier hybrid SQL engine — fine-tuned Flan-T5, Claude fallback, deterministic heuristic. 100% valid SQL rate across 133 benchmark questions on 271,116 rows at 1.1 ms avg latency | FastAPI · Flan-T5 · PyTorch · React 18 · SQLite |
+| [Real Estate Analytics Platform](https://github.com/Abhishek9124/Real_Estate_Analytics_Platform) | Gurgaon property price prediction, market analytics dashboard, and content-based recommender — R2 0.86 on 3,000+ listings, top-5 cosine-similarity recommender with geospatial heatmap | Streamlit · XGBoost · scikit-learn · Plotly · pandas |
 
 ---
 
-## Tech stack
+## Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B6B?style=flat-square)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 
-**LLM / AI** — LangChain · LangGraph · MCP (Model Context Protocol) · RAG pipelines · LoRA/QLoRA fine-tuning · Gemini · OpenAI-compatible APIs
+**LLM / AI** — LangChain · MCP (Model Context Protocol) · RAG pipelines · Flan-T5 · LoRA/QLoRA · Gemini · OpenAI-compatible APIs
 
-**ML / Data** — XGBoost · SHAP · Pandas · NumPy · Matplotlib · Unsloth
+**ML / Data** — XGBoost · SHAP · PyTorch · Pandas · NumPy · Matplotlib
 
-**Backend / Infra** — Flask · FastAPI · SQLite · Docker · Render · REST APIs
+**Backend / Infra** — FastAPI · Flask · React 18 · Vite · Tailwind CSS · SQLite · Docker · AWS (SAA-C03) · REST APIs
 
 ---
 
